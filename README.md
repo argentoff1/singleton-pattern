@@ -1,0 +1,2 @@
+# singleton-pattern
+Паттерн "Одиночка"
